@@ -1,5 +1,5 @@
 # image-lambda
-due code with Tanner
+duo code with Tanner
 
 #### AWS Lambda allows writing code that is triggered in the cloud, without thinking about maintaining servers. 
 
@@ -15,3 +15,6 @@ due code with Tanner
   - Name, Size, Type, etc.
   - Append the data for this image to the array
   - Upload the images.json file back to the S3 bucket
+
+image.json link:
+https://github.com/BeauHibbert/image-lambda/blob/main/images.json
